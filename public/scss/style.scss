@@ -1,0 +1,118 @@
+#postLables
+{
+  font-size: 20px;
+
+}
+#showPost
+{
+#left{
+    background-color: #f9f1f1;
+    border-radius: 20px;
+    #addComment
+    {
+      margin-top: 10px;
+      margin-left: 120px;
+    }
+}
+  #user_image_in_post
+  {
+    margin-top: 10px;
+    padding-right: 10px;
+    width: 100px;
+  }
+  a{
+    color: black;
+
+  }
+  #caption{
+    font-family: 'Libre Caslon Text', serif;
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+
+}
+#header{
+  #logo
+  {
+    color: black;
+    font-family: 'Lobster', cursive;
+  }
+  #search
+  {
+    height: 20px;
+  }
+  #home{
+    width: 40px;
+    margin-left: 80px;
+    }
+    #share
+    {
+      width: 20px;
+      margin-left: 10px;
+    }
+    #compass{
+      width: 30px;
+      margin-left: 20px;
+    }
+    #heart{
+      width: 50px;
+      margin-left: 5px;
+    }
+    #user{
+      width: 30px;
+    }
+}
+#about
+{
+  #user{
+    // margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+  }
+  #username{
+    display: inline-block;
+    margin-right: 40px;
+  }
+  #settings
+  {
+    width: 20px;
+    margin-left: 50px;
+    cursor: pointer;
+  }
+  #second
+  {
+  p{
+    display: inline-block;
+    margin-right: 10px;
+  }
+  a{
+    margin-right: 10px;
+    color: black;
+    font-weight: 400;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+  }
+  #bio{
+    p{ white-space: pre-line;}
+  }
+}
+#links{
+  border-top: 1px solid #ffe4e1;
+  margin:10px 0px;
+  padding-top: 30px;
+  a{
+    padding-left: 20px;
+    color: #767468;
+
+  }
+}
+#posts{
+
+  #sp{
+      width: 100%;
+  }
+
+}
